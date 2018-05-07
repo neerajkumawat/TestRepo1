@@ -2,6 +2,3 @@ Test file
 test local changes
 test remote changes
 test master 
-test vs code chnage
-Vs code changes
-sss
